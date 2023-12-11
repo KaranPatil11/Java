@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Butterflypattern",
+            "request": "launch",
+            "mainClass": "Butterflypattern",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Condition",
+            "request": "launch",
+            "mainClass": "Condition",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Condition1",
+            "request": "launch",
+            "mainClass": "Condition1",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Evenno",
+            "request": "launch",
+            "mainClass": "Evenno",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Hillpattern",
+            "request": "launch",
+            "mainClass": "Hillpattern",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "Marks",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Naturalno",
+            "request": "launch",
+            "mainClass": "Naturalno",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Nopattern",
+            "request": "launch",
+            "mainClass": "Nopattern",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Rpattern",
+            "request": "launch",
+            "mainClass": "Rpattern",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "TwodArray",
+            "request": "launch",
+            "mainClass": "TwodArray",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "letsgo",
+            "request": "launch",
+            "mainClass": "letsgo",
+            "projectName": "JAVA_3d260394"
+        },
+        {
+            "type": "java",
+            "name": "minmax",
+            "request": "launch",
+            "mainClass": "minmax",
+            "projectName": "JAVA_3d260394"
+        }
+    ]
+}
