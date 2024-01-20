@@ -16,12 +16,23 @@ public class TwodArray {
                 numbers[i][j] = sc.nextInt();
             }
         }
+        int x = sc.nextInt();
+        
         // Output 
-        for(int i=0; i<rows; i++){
+        // for(int i=0; i<rows; i++){
+        //     for(int j=0; j<cols; j++){
+        //         System.out.print(numbers[i][j] + " ");
+        //     }
+        //     System.out.println();
+        // }
+
+        for(int i=0; i<rows; i ++){
             for(int j=0; j<cols; j++){
-                System.out.print(numbers[i][j] + " ");
+                // Compare with x
+                if (numbers[i][j] == x) {
+                    System.out.println("x found at location (" + i + ", " + j + ")");
+                }
             }
-            System.out.println( );
         }
         
     } 
