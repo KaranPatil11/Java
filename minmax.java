@@ -25,8 +25,8 @@ public class minmax {
                max = numbers[i];
            }
        }
-       System.out.println("Largest number is : " + max);
        System.out.println("Smallest number is : " + min);
+       System.out.println("Largest number is : " + max);
       
    }
 }
