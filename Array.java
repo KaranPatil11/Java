@@ -30,13 +30,19 @@ public class Array{
 
         int x = sc.nextInt();
 
-        //output
-        for(int i=0; i<numbers.length; i++){
-             if(numbers[i] == x){
-                System.out.println("x found at index : " + i);
-             }
+                  //output
+                  boolean isFound = false;
+                  for(int i=0; i<numbers.length; i++){
+                         if(numbers[i] == x){
+                             System.out.println("x found at index : " + i);
+                             isFound = true;
+                             break; // exit the loop once x is found
+                         }
+                  }
+                  if (!isFound) {
+                        System.out.println("x not found");
+                  }
+                  
+              }
+             
         }
-        
-     }
-    
-}
