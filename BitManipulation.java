@@ -17,5 +17,6 @@ public class BitManipulation{
 
         // System.out.println("bit was one");
         // }
+        
     }
 }
